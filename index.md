@@ -5,3 +5,8 @@
 I add Markdown above.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Code sample
+```Python
+print('Hello World!')
+```
